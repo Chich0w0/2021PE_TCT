@@ -1493,7 +1493,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1003,
             "issue": 100,
-            "state_issue_score": 0.12,
+            "state_issue_score": 0.25,
             "weight": 1
         }
     },
@@ -2493,7 +2493,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1023,
             "issue": 100,
-            "state_issue_score": -0.05,
+            "state_issue_score": 0.39,
             "weight": 1
         }
     },
@@ -2727,7 +2727,7 @@ campaignTrail_temp.candidate_issue_score_json = [
         "fields": {
             "candidate": 201,
             "issue": 104,
-            "issue_score": -0.44
+            "issue_score": -0.5
         }
     },
     {
@@ -2958,7 +2958,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 200,
             "state": 1009,
-            "state_multiplier": 0.96
+            "state_multiplier": 0.95
         }
     },
     {
@@ -2985,7 +2985,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 200,
             "state": 1012,
-            "state_multiplier": 0.96
+            "state_multiplier": 0.88
         }
     },
     {
@@ -2994,7 +2994,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 200,
             "state": 1013,
-            "state_multiplier": 0.86
+            "state_multiplier": 0.87
         }
     },
     {
@@ -3192,7 +3192,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 201,
             "state": 1009,
-            "state_multiplier": 1.09
+            "state_multiplier": 1.12
         }
     },
     {
@@ -3228,7 +3228,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 201,
             "state": 1013,
-            "state_multiplier": 0.94
+            "state_multiplier": 0.99
         }
     },
     {
