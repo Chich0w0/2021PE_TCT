@@ -6679,7 +6679,7 @@ if (aa[0].popular_votes > aa[1].popular_votes) {
             }
         }, 100);
     	}
-       return "<h3>Congratulations! You have won and defeated Fujimori.</h3><p>Good job. This wasn't the expected outcome. Perhaps it has been a bit of luck, or an expression of Anti-Fujimorism. We hope that you will serve your 5 years. Or maybe not. Stay alive!</p>"
+       return "<h3>Una victoria, aunque cercana.</h3><p>You did it! Well done, President-elect Castillo. You've defeated Keiko Fujimori, and all things considered, you have outperformed what President Kuczynski achieved 5 years ago, which is quite good considering the initial expectations of your defeat. Currently, your forces in congress are not numerous enough to secure a majority on their own, and even with your allies, you will undoubtedly face challenges in advancing your agenda. Nevertheless, we are hopeful that things will go well. Your agenda won't be easy to turn into reality, and you will be the victim of many attacks in the near future. Keiko has not ruled out the idea of accusing your party of committing electoral fraud. Not too long ago, what happened in the United States is a concern, but whether or not you fall to the right-wing political machine that was born thanks to Fujimori and is continued by his daughter is uncertain. Nevertheless, hopes are high. Unlike Humala, you won't compromise your ideals. A better future for labor is possible, right?</p>"
     } else {
 	if (used != true) {
         setInterval(function () {
@@ -6714,7 +6714,7 @@ if (aa[0].popular_votes > aa[1].popular_votes) {
             }
         }, 100);
     	}
-       return "<h3>Congratulations! You have won and defeated Fujimori.</h3><p>Good job. This wasn't the expected outcome. Perhaps it has been a bit of luck, or an expression of Anti-Fujimorism. We hope that you will serve your 5 years. Or maybe not (?)</p>"
+        return "<h3>Una victoria, aunque cercana.</h3><p>You did it! Well done, President-elect Castillo. You've defeated Keiko Fujimori, and all things considered, you have outperformed what President Kuczynski achieved 5 years ago, which is quite good considering the initial expectations of your defeat. Currently, your forces in congress are not numerous enough to secure a majority on their own, and even with your allies, you will undoubtedly face challenges in advancing your agenda. Nevertheless, we are hopeful that things will go well. Your agenda won't be easy to turn into reality, and you will be the victim of many attacks in the near future. Keiko has not ruled out the idea of accusing your party of committing electoral fraud. Not too long ago, what happened in the United States is a concern, but whether or not you fall to the right-wing political machine that was born thanks to Fujimori and is continued by his daughter is uncertain. Nevertheless, hopes are high. Unlike Humala, you won't compromise your ideals. A better future for labor is possible, right?</p>"
     }
 }
 }
